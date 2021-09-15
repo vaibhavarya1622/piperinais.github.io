@@ -163,7 +163,7 @@ button.addEventListener("click",function(){
             frames[0].style.display = "block";
             frames[0].classList.add("appear");
             frames[0].style.opacity = "1";
-        },30000);
+        },40000);
 
     }
 
